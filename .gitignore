@@ -1,0 +1,10 @@
+target/
+
+.idea/
+*.iml
+
+# Dados de teste gerados (arquivos gigantes)
+/data/
+
+.env
+*.pem
